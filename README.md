@@ -5,7 +5,7 @@
  1. **Docker**: Ensure Docker is installed and running on your machine.
  2. **MySQL 5.7 Container**: A container running MySQL 5.7, with a pre-existing schema called **deepdata** that is populated. This schema must include all tables, stored procedures, indexes, etc. You can find the SQL dump file here.
 
-![Alt text](https://res.cloudinary.com/demo/image/upload/sample.jpg)
+![Alt text](https://photos.app.goo.gl/Yzqkk9wxhPoH3BeU6)
 
 ## Setting Up MySQL 5.7 Container
 
